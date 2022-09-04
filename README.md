@@ -20,7 +20,8 @@
 | 1, 2 | ToDo 리스트 서비스 | [링크](https://github.com/happyGyu/todo-list) |
 | 3, 4 | 온라인 반찬 서비스 | [링크](https://github.com/happyGyu/sidedish)  |
 | 5, 6 | 자판기 | [링크](https://github.com/happyGyu/fe-vm)  |
-| 7, 8, 9 (진행 중) | 숙박 서비스 | [링크](https://github.com/otterp012/airbnb)  |
+| 7, 8, 9 | 숙박 서비스 | [링크](https://github.com/otterp012/airbnb)  |
+| 10, 11, 12 | 이슈 트래커 | [링크](https://github.com/happyGyu/issue-tracker/tree/team-22/fe)  |
 
 <br/>
 
